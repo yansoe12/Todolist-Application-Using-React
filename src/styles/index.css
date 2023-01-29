@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+/* button {
+    color: transparent !important;
+    background: transparent !important;
+    border-color: transparent !important;
+
+
+}
+
+button:hover {
+
+    color: black !important;
+
+
+}
+
+/* body {
+    background: whitesmoke;
+} */
+ h1 {
+    text-align: center;
+    /* color: #ebd8d9; */
+    font-size: 4rem;
+} 
